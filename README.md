@@ -101,6 +101,7 @@ npx skills add himself65/finance-skills -a <agent-name>
 | Skill | Description | Platform |
 |---|---|---|
 | [funda-data](skills/funda-data/) | Query the [Funda AI](https://funda.ai) API for comprehensive financial data — real-time quotes, fundamentals, options flow/greeks/GEX (Unusual Whales), supply chain knowledge graph, social sentiment (Twitter KOLs, Reddit), Polymarket, congressional trades, SEC filings, earnings transcripts, economic indicators, and 60+ endpoints. Requires a paid API key. | Claude Code |
+| [finance-sentiment](skills/finance-sentiment/) | Structured stock sentiment research via the Adanos Finance API — compare Reddit, X.com, news, and Polymarket using buzz, bullish percentage, mentions or trades, and trend. Requires `ADANOS_API_KEY`. | Claude Code |
 
 ### Geopolitical & Macro Risk
 
